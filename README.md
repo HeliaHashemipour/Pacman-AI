@@ -8,6 +8,7 @@ As in the Coding Diagnostic, this project includes an autograder for you to grad
 > python3 autograder.py
 
 ***Welcom to Packman***
+
 Pacman lives in a shiny blue world of twisting corridors and tasty round treats. Navigating this world efficiently will be Pacman’s first step in mastering his domain.
 
 - Search: Implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
