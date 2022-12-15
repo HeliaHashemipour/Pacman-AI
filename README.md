@@ -1,3 +1,7 @@
+> Instructor: [Dr. M. Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en)
+
+> Semester: Fall 2021
+
 # Introduction
 
 In this project, your Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. You will build general search algorithms and apply them to Pacman scenarios.
